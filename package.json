@@ -1,0 +1,16 @@
+{
+  "name": "wind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o public/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "netlify-cli": "^8.4.2",
+    "tailwindcss": "^2.2.19"
+  }
+}

@@ -1,0 +1,54 @@
+
+
+
+
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+#list-item{
+    transition: 0.3s ease;
+    
+} 
+#list-item a:hover{
+
+    text-decoration: underline 3px cornflowerblue;
+   text-underline-offset: 17px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+#f-pic{
+    width: 100vw;
+    height: 380px;
+}
+
+
+
+
+
